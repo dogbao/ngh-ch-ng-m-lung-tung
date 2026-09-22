@@ -18,7 +18,7 @@ def main():
         try:
             num1 = float(num1_input)
         except ValueError:
-            print("⚠️ Vui lòng nhập một số hợp lệ!")
+            print(" Vui lòng nhập một số hợp lệ!")
             continue
 
         # Nhập phép toán
